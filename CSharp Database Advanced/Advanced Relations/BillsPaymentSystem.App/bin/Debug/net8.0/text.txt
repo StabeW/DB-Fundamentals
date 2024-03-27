@@ -1,0 +1,16 @@
+User: Guy Gilbert
+Bank Accounts:
+-- ID: 1
+--- Balance: 2 000,00 лв.
+--- Bank: Unicredit Bulbank
+--- SWIFT: UNCRBGSF
+-- ID: 2
+--- Balance: 1 000,00 лв.
+--- Bank: First Investment Bank
+--- SWIFT: FINVBGSF
+Credit Cards:
+-- ID: 1
+--- Limit: 800,00 лв.
+--- Money Owed: 100,00 лв.
+--- Limit Left: 700,00 лв.
+--- Expiration Date: 2020.03

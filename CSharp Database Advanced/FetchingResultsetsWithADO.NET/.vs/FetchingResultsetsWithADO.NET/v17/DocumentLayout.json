@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A2451C-DF5C-44FA-AD16-3E0005D3BE14}|02.VillainNames\\02.VillainNames.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\02.villainnames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A2451C-DF5C-44FA-AD16-3E0005D3BE14}|02.VillainNames\\02.VillainNames.csproj|solutionrelative:02.villainnames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\01.initialsetup\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|solutionrelative:01.initialsetup\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32384723-60F0-4FD0-92BF-D80FA131E158}|04.AddMinion\\04.AddMinion.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\04.addminion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32384723-60F0-4FD0-92BF-D80FA131E158}|04.AddMinion\\04.AddMinion.csproj|solutionrelative:04.addminion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA0076-0C30-4D58-BDB8-6A65D443A80B}|03.MinionNames\\03.MinionNames.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\03.minionnames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA0076-0C30-4D58-BDB8-6A65D443A80B}|03.MinionNames\\03.MinionNames.csproj|solutionrelative:03.minionnames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\01.initialsetup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|solutionrelative:01.initialsetup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\fetchingresultsetswithado.net\\01.initialsetup\\01.initialsetup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A527C5A5-3BD0-444E-A314-08684F233CC4}|01.InitialSetup\\01.InitialSetup.csproj|solutionrelative:01.initialsetup\\01.initialsetup.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\04.AddMinion\\StartUp.cs",
+              "RelativeDocumentMoniker": "04.AddMinion\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\04.AddMinion\\StartUp.cs",
+              "RelativeToolTip": "04.AddMinion\\StartUp.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwEgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:18:37.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\03.MinionNames\\StartUp.cs",
+              "RelativeDocumentMoniker": "03.MinionNames\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\03.MinionNames\\StartUp.cs",
+              "RelativeToolTip": "03.MinionNames\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:55:36.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\02.VillainNames\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.VillainNames\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\02.VillainNames\\StartUp.cs",
+              "RelativeToolTip": "02.VillainNames\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:05:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01.InitialSetup.csproj",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\01.InitialSetup.csproj",
+              "RelativeDocumentMoniker": "01.InitialSetup\\01.InitialSetup.csproj",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\01.InitialSetup.csproj",
+              "RelativeToolTip": "01.InitialSetup\\01.InitialSetup.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T20:58:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\Configuration.cs",
+              "RelativeDocumentMoniker": "01.InitialSetup\\Configuration.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\Configuration.cs",
+              "RelativeToolTip": "01.InitialSetup\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:54:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\StartUp.cs",
+              "RelativeDocumentMoniker": "01.InitialSetup\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\FetchingResultsetsWithADO.NET\\01.InitialSetup\\StartUp.cs",
+              "RelativeToolTip": "01.InitialSetup\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:51:43.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\softuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\softuni.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stani\\AppData\\Local\\Temp\\5ec78300-fd5f-4a98-bec1-c13767a5bbd8_Submission_39186015.zip.bd8\\Models\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stani\\AppData\\Local\\Temp\\418feb49-8c9a-482d-b12c-f1f3d205572b_Submission_39186015.zip.72b\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stani\\AppData\\Local\\Temp\\32bc5676-19c8-4a3c-9f47-ff4dda643866_Submission_39186015.zip.866\\Data\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\entity framework introduction\\softuni\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC19A292-8CC2-41CD-AE56-615A9B1527D5}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\AppData\\Local\\Temp\\5ec78300-fd5f-4a98-bec1-c13767a5bbd8_Submission_39186015.zip.bd8\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\5ec78300-fd5f-4a98-bec1-c13767a5bbd8_Submission_39186015.zip.bd8\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\stani\\AppData\\Local\\Temp\\5ec78300-fd5f-4a98-bec1-c13767a5bbd8_Submission_39186015.zip.bd8\\Models\\Project.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\5ec78300-fd5f-4a98-bec1-c13767a5bbd8_Submission_39186015.zip.bd8\\Models\\Project.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:45:48.942Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\AppData\\Local\\Temp\\418feb49-8c9a-482d-b12c-f1f3d205572b_Submission_39186015.zip.72b\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\418feb49-8c9a-482d-b12c-f1f3d205572b_Submission_39186015.zip.72b\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\stani\\AppData\\Local\\Temp\\418feb49-8c9a-482d-b12c-f1f3d205572b_Submission_39186015.zip.72b\\Models\\Employee.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\418feb49-8c9a-482d-b12c-f1f3d205572b_Submission_39186015.zip.72b\\Models\\Employee.cs [Read Only]",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:44:32.188Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\AppData\\Local\\Temp\\32bc5676-19c8-4a3c-9f47-ff4dda643866_Submission_39186015.zip.866\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\32bc5676-19c8-4a3c-9f47-ff4dda643866_Submission_39186015.zip.866\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\stani\\AppData\\Local\\Temp\\32bc5676-19c8-4a3c-9f47-ff4dda643866_Submission_39186015.zip.866\\Data\\SoftUniContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\32bc5676-19c8-4a3c-9f47-ff4dda643866_Submission_39186015.zip.866\\Data\\SoftUniContext.cs [Read Only]",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:41:11.854Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "SoftUni\\Models\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:19:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Town.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Town.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Town.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:09:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Project.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:09:00.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Employee.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Employee.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:08:56.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUni\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\StartUp.cs",
+              "RelativeToolTip": "SoftUni\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:04:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:08:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Address.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:08:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoftUni.csproj",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\SoftUni.csproj",
+              "RelativeDocumentMoniker": "SoftUni\\SoftUni.csproj",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\SoftUni.csproj",
+              "RelativeToolTip": "SoftUni\\SoftUni.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T11:57:31.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\Entity Framework Introduction\\SoftUni\\Models\\Department.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Department.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:08:52.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

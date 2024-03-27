@@ -1,0 +1,11 @@
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.AssemblyReference.cache
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.sourcelink.json
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\stani\Documents\FreeLancer\DB-Fundamentals\CSharp Database Advanced\ORMFundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

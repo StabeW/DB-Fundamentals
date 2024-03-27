@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\commands\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\commands\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|solutionrelative:automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\enums\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\enums\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\myapp\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758F4CC-FB30-48C3-A3AE-0405C8B96BA9}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\automapper\\exceptionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|solutionrelative:automapper\\exceptionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\automapper\\mapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|solutionrelative:automapper\\mapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\automapper\\reflectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|solutionrelative:automapper\\reflectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|c:\\users\\stani\\documents\\freelancer\\db-fundamentals\\csharp database advanced\\test automapper\\automapper\\automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAA4193A-410B-41A7-80CF-99C3C36E2E75}|Automapper\\Automapper.csproj|solutionrelative:automapper\\automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\CommandInterpreter.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\CommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\CommandInterpreter.cs",
+              "RelativeToolTip": "MyApp\\Core\\CommandInterpreter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:20:40.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeToolTip": "MyApp\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:19:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Engine.cs",
+              "RelativeToolTip": "MyApp\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:23:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Commands\\Contracts\\ICommand.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\Commands\\Contracts\\ICommand.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Commands\\Contracts\\ICommand.cs",
+              "RelativeToolTip": "MyApp\\Core\\Commands\\Contracts\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:37:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\EmployeeDto.cs",
+              "RelativeToolTip": "MyApp\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:49:03.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Enums\\Commands.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\Enums\\Commands.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Enums\\Commands.cs",
+              "RelativeToolTip": "MyApp\\Core\\Enums\\Commands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:45:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\StartUp.cs",
+              "RelativeDocumentMoniker": "MyApp\\StartUp.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\StartUp.cs",
+              "RelativeToolTip": "MyApp\\StartUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:44:40.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "MyApp\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "MyApp\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:23:10.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Models\\Employee.cs",
+              "RelativeToolTip": "MyApp\\Models\\Employee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:03:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "Automapper\\Mapper.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\Mapper.cs",
+              "RelativeToolTip": "Automapper\\Mapper.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:47:14.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\MyAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:19:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\MyApp\\Data\\Configuration.cs",
+              "RelativeToolTip": "MyApp\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:16:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Automapper",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\Automapper.csproj",
+              "RelativeDocumentMoniker": "Automapper\\Automapper.csproj",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\Automapper.csproj",
+              "RelativeToolTip": "Automapper\\Automapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T09:49:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReflectionUtils.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\ReflectionUtils.cs",
+              "RelativeDocumentMoniker": "Automapper\\ReflectionUtils.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\ReflectionUtils.cs",
+              "RelativeToolTip": "Automapper\\ReflectionUtils.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:48:25.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\MapperConfiguration.cs",
+              "RelativeDocumentMoniker": "Automapper\\MapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\MapperConfiguration.cs",
+              "RelativeToolTip": "Automapper\\MapperConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:47:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionUtils.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\ExceptionUtils.cs",
+              "RelativeDocumentMoniker": "Automapper\\ExceptionUtils.cs",
+              "ToolTip": "C:\\Users\\stani\\Documents\\FreeLancer\\DB-Fundamentals\\CSharp Database Advanced\\Test Automapper\\Automapper\\ExceptionUtils.cs",
+              "RelativeToolTip": "Automapper\\ExceptionUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:46:31.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
